@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "686096593208",
+    "project_id": "kissanmandi-87652",
+    "storage_bucket": "kissanmandi-87652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686096593208:android:06347531d72fd9960d11cd",
+        "android_client_info": {
+          "package_name": "com.aviral.kissan_mandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686096593208-n05u36q905j27vlln83asobrlt7aekn1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aviral.kissan_mandi",
+            "certificate_hash": "c7956276afdbcd7f03b4179b2ef0d3508f51e4e6"
+          }
+        },
+        {
+          "client_id": "686096593208-e3cs05sc69trpoh9886qef2f3vvuvmh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxApInBgSva0zyMVBkwsCHxzbQgq63umc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686096593208-e3cs05sc69trpoh9886qef2f3vvuvmh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
